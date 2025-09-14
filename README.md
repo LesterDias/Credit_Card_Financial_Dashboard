@@ -14,9 +14,9 @@ This repository is designed to highlight strong **data engineering and reporting
 ### 📂 Dataset Description
 The project uses four CSV input files:
 
-1. *'customer.csv'* – Core customer demographic details (Customer ID, Name, Age, Gender, etc.)  
-2. *cust_add.csv* – Address details mapped to customers  
-3. *credit_card.csv* – Credit card details (Card Number, Type, Limit, Expiry Date, etc.)  
+1. **`customer.csv`** – Core customer demographic details (Customer ID, Name, Age, Gender, etc.)  
+2. **`cust_add.csv`** – Address details mapped to customers  
+3. **`credit_card.csv`** – Credit card details (Card Number, Type, Limit, Expiry Date, etc.)  
 4. **`cc_add.csv`** – Links credit cards to customer IDs and addresses  
 
 ---
