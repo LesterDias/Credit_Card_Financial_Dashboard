@@ -60,9 +60,10 @@ Embed screenshot here:
 
 ---
 ### 🖥️ Presentation
-Generated a comprehensive insights report (PDF).
-Designed an executive-ready PPT through Gamma summarizing KPIs, trends, and recommendations.
-Files included:
+ -Generated a comprehensive insights report (PDF).
+ -Designed an executive-ready PPT through Gamma summarizing KPIs, trends, and recommendations.
+
+ Files included:
 ``Credit-Card-Transaction-Report.pptx``
 ---
 
