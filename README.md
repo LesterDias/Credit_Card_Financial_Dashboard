@@ -64,9 +64,10 @@ Embed screenshot here:
 ###  🛠️ Tech Stack
 - *Python* – Core programming  
 - *Pandas* – Data cleaning & preprocessing  
-- *ReportLab / FPDF* – PDF generation  
-- *Matplotlib / Seaborn* – Visualizations (if enabled)  
-- *Jupyter Notebook / Python Scripts* – Development environment  
+- *ReportLab / FPDF* – PDF generation    
+- *Jupyter Notebook / Python Scripts* – Development environment
+- *Power BI* - Interective dashboard
+- *Gamma.app* - PPT generation
 
 
 
