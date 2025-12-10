@@ -41,8 +41,7 @@ Two professional PDF reports are generated:
 This project delivers two high-impact Power BI dashboards engineered to accelerate decision-making across customer analytics and credit risk assessment. These visuals translate raw data into executive-ready insights, enabling quick navigation of KPIs, behavior patterns, spend trends, product performance, and credit utilization metrics.
 
 
-#### Credit Card Transaction Dashboard
-
+#### Credit Card Transaction Dashboard:
 Delivers a high-fidelity view of cardholder spending patterns, transaction frequency, merchant category behavior, credit utilization trends, and risk indicators. The dashboard integrates KPI cards, slicers, drill-downs, and performance metrics to support data-driven decision-making across fraud monitoring, credit operations, and customer analytics.
 
 Embed screenshot here:
@@ -51,8 +50,7 @@ Embed screenshot here:
 
 
 
-#### Credit Card Customer Report Dashboard
-
+#### Credit Card Customer Report Dashboard:
 Provides a consolidated view of customer-level credit card behavior, capturing spending patterns, transaction volumes, credit utilization, delinquency indicators, and financial risk profiles. The dashboard integrates KPI tiles, dynamic slicers, drill-downs, and segment-wise analytics to equip stakeholders with decision-grade insights into customer performance and portfolio health.
 
 Embed screenshot here:
