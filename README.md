@@ -35,6 +35,28 @@ Two professional PDF reports are generated:
    - Can be extended for fraud detection or spending behavior analysis  
 
 ---
+Dashboards
+
+This project delivers two high-impact Power BI dashboards engineered to accelerate decision-making across customer analytics and credit risk assessment. These visuals translate raw data into executive-ready insights, enabling quick navigation of KPIs, behavior patterns, spend trends, product performance, and credit utilization metrics.
+
+Credit Card Transaction Dashboard
+
+Delivers a high-fidelity view of cardholder spending patterns, transaction frequency, merchant category behavior, credit utilization trends, and risk indicators. The dashboard integrates KPI cards, slicers, drill-downs, and performance metrics to support data-driven decision-making across fraud monitoring, credit operations, and customer analytics.
+
+Embed screenshot here:
+
+<img width="1164" height="651" alt="image" src="https://github.com/user-attachments/assets/388afeb3-79ef-4854-b0c8-d500761a557e" />
+
+
+Credit Card Customer Report Dashboard
+
+Provides a consolidated view of customer-level credit card behavior, capturing spending patterns, transaction volumes, credit utilization, delinquency indicators, and financial risk profiles. The dashboard integrates KPI tiles, dynamic slicers, drill-downs, and segment-wise analytics to equip stakeholders with decision-grade insights into customer performance and portfolio health.
+
+Embed screenshot here:
+
+<img width="1164" height="647" alt="image" src="https://github.com/user-attachments/assets/7bd5cc0b-dead-4d30-ad13-802245d55ce2" />
+
+---
 
 ###  🛠️ Tech Stack
 - *Python* – Core programming  
