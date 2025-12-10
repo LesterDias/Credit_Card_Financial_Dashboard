@@ -36,7 +36,7 @@ Two professional PDF reports are generated:
 
 ---
 
-### Dashboards
+### 📈 Dashboards
 
 This project delivers two high-impact Power BI dashboards engineered to accelerate decision-making across customer analytics and credit risk assessment. These visuals translate raw data into executive-ready insights, enabling quick navigation of KPIs, behavior patterns, spend trends, product performance, and credit utilization metrics.
 
